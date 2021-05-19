@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "scoreboard-1",
+  "name": "scoreboard",
   "scripts": {
     "start": "browser-sync start --server public --files public",
     "deploy": "echo 'To setup deployment run: npm run setup-deploy'",

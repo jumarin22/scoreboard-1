@@ -1,3 +1,3 @@
-# Scoreboard 1
+# Scoreboard
 
 ![SDG](./docs/button.png)
